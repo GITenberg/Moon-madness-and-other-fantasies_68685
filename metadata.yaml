@@ -1,0 +1,27 @@
+_repo: Moon-madness-and-other-fantasies_68685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gouraud, Aimee Crocker
+    gutenberg_agent_id: '54902'
+    url: http://www.gutenberg.org/2009/agents/54902
+description: ''
+gutenberg_issued: '2022-08-04'
+identifiers:
+  gutenberg: '68685'
+language: en
+pgterms:marc904: https://archive.org/details/moonmadness00gourrich
+pgterms:marc905: 20210925152657gouraud
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :Broadway Publishers Co.,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Moon madness and other fantasies
+url: http://www.gutenberg.org/ebooks/68685
