@@ -1,11 +1,16 @@
 _repo: Moon-madness-and-other-fantasies_68685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68685-h/images/cover.jpg
 creator:
   author:
     agent_name: Gouraud, Aimee Crocker
     gutenberg_agent_id: '54902'
     url: http://www.gutenberg.org/2009/agents/54902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68685#Moon-madness-and-other-fantasies
 gutenberg_issued: '2022-08-04'
 identifiers:
   gutenberg: '68685'
